@@ -91,7 +91,7 @@ function colors(color) {
    //      return "This is orange";
    //   default:
    //      return "Color not found"; }
-   }
+   
    var mensaje;
    switch(color) {
       case "blue":
